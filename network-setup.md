@@ -10,3 +10,7 @@ On the 2nd switch there are:
 2 PCs (210.3.14.3 and 210.3.14.4)
 1 Laptop (210.3.14.2)
 1 Server (210.3.14.5)
+
+Updated:
+Added 1 PC to each Switch
+(168.90.0.5 and 210.3.14.6)
